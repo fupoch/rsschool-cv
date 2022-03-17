@@ -1,7 +1,7 @@
 #  [rsschool-cv](https://fupoch.github.io/rsschool-cv/)
 ---
 ## Kozlov Nikita
----
+___
 ## Junior Frontend Developer
 ---
 ###  Contact information:
